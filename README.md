@@ -9,10 +9,12 @@
 - **Absolute Value**
 - **Average Calculation**
 
+## Class Details
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTYxMzkwMjUsLTQ0NjMxOTE0MiwyMD
-QyMjc5MjA5LDQyNDU2MjkwNF19
+eyJoaXN0b3J5IjpbMTE4MTQ5ODg2NSwtNDQ2MzE5MTQyLDIwND
+IyNzkyMDksNDI0NTYyOTA0XX0=
 -->
