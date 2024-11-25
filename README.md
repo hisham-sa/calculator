@@ -18,7 +18,10 @@
 ---
 ### **Features in App class**
 ####  **Menu Options**
+The program supports the following operations:
+0- 
 
+---
 
 
 2. **operations** class contains the mathematical methods used by the calculator. Each method focuses on a specific operation
@@ -26,7 +29,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0NzQ3OTM1LC0xOTczOTgyOTQxLDExOD
-E0OTg4NjUsLTQ0NjMxOTE0MiwyMDQyMjc5MjA5LDQyNDU2Mjkw
-NF19
+eyJoaXN0b3J5IjpbMTI3OTU0NjEwMiwtMTk3Mzk4Mjk0MSwxMT
+gxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1NjI5
+MDRdfQ==
 -->
