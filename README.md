@@ -16,12 +16,16 @@
 - handles user inputs and manages invalid entries.
 - Calls appropriate methods in the `operations` class for calculations.
 ---
+### ***Features in `App***
+
+
+
 2. **operations** class contains the mathematical methods used by the calculator. Each method focuses on a specific operation
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE2NTE2MjgsLTE5NzM5ODI5NDEsMT
-E4MTQ5ODg2NSwtNDQ2MzE5MTQyLDIwNDIyNzkyMDksNDI0NTYy
-OTA0XX0=
+eyJoaXN0b3J5IjpbLTIwMDUyNTI0OCwtMTk3Mzk4Mjk0MSwxMT
+gxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1NjI5
+MDRdfQ==
 -->
