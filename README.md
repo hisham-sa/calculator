@@ -16,7 +16,8 @@
 - handles user inputs and manages invalid entries.
 - Calls appropriate methods in the `operations` class for calculations.
 ---
-### ***Features in `App***
+### **Features in App class**
+####  **Menu Options**
 
 
 
@@ -25,7 +26,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDUyNTI0OCwtMTk3Mzk4Mjk0MSwxMT
-gxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1NjI5
-MDRdfQ==
+eyJoaXN0b3J5IjpbNTY0NzQ3OTM1LC0xOTczOTgyOTQxLDExOD
+E0OTg4NjUsLTQ0NjMxOTE0MiwyMDQyMjc5MjA5LDQyNDU2Mjkw
+NF19
 -->
