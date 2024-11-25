@@ -31,7 +31,8 @@ The program supports the following operations:
 8. Odd/Even Check
 9. Absolute Value
 10. Average
-
+###  **Error Handling**
+-  Invalid inputs   
 ---
 
 
@@ -40,7 +41,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMzE5OTExNCwtMTk3Mzk4Mjk0MSwxMT
-gxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1NjI5
-MDRdfQ==
+eyJoaXN0b3J5IjpbLTIxOTM5MTA3LC0xOTczOTgyOTQxLDExOD
+E0OTg4NjUsLTQ0NjMxOTE0MiwyMDQyMjc5MjA5LDQyNDU2Mjkw
+NF19
 -->
