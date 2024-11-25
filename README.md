@@ -16,11 +16,11 @@
 - handles user inputs and manages invalid entries.
 - Calls appropriate methods in the `operations` class for calculations.
 ---
-2. **operations**
+2. **operations** The utility class that provides the mathematical operations.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQzNDkzNTQ4LDExODE0OTg4NjUsLTQ0Nj
-MxOTE0MiwyMDQyMjc5MjA5LDQyNDU2MjkwNF19
+eyJoaXN0b3J5IjpbLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NSwtND
+Q2MzE5MTQyLDIwNDIyNzkyMDksNDI0NTYyOTA0XX0=
 -->
