@@ -7,10 +7,12 @@
 - **Exponentiation**
 - **Odd/Even Checks**
 - **Absolute Value**
-- 
+- **Average Calculation**
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzEzNDg5MDksLTQ0NjMxOTE0MiwyMD
+eyJoaXN0b3J5IjpbLTE5NTYxMzkwMjUsLTQ0NjMxOTE0MiwyMD
 QyMjc5MjA5LDQyNDU2MjkwNF19
 -->
