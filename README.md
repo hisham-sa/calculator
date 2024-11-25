@@ -3,9 +3,14 @@
 
 ## Key Features
 - **Basic mathematical operations** Addition, subtraction, multiplication, and  division.
+- **Percentage**
+- **Exponentiation**
+- **Odd/Even Checks**
+- **Absolute Value**
 - 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYxMDYxMDUsLTQ0NjMxOTE0MiwyMD
+eyJoaXN0b3J5IjpbLTE4NzEzNDg5MDksLTQ0NjMxOTE0MiwyMD
 QyMjc5MjA5LDQyNDU2MjkwNF19
 -->
