@@ -11,12 +11,14 @@
 
 ## Class Details
 
-1 App 
-class is the entry point of the calculator program. It interacts with the user via the `Scanner s1`  and performs the following:
+1. **App** class is the entry point of the calculator program. It interacts with the user via the `Scanner s1`  and performs the following:
+- Displays a menu of operations.
+- handles user inputs and manages invalid entries.
+- 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDkwNTE3MCwxMTgxNDk4ODY1LC00ND
-YzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1NjI5MDRdfQ==
+eyJoaXN0b3J5IjpbLTEwNzQzMTQ1ODYsMTE4MTQ5ODg2NSwtND
+Q2MzE5MTQyLDIwNDIyNzkyMDksNDI0NTYyOTA0XX0=
 -->
