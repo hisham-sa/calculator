@@ -14,11 +14,13 @@
 1. **App** class is the entry point of the calculator program. It interacts with the user via the `Scanner s1`  and performs the following:
 - Displays a menu of operations.
 - handles user inputs and manages invalid entries.
-- 
+- Calls appropriate methods in the `operations` class for calculations.
+
+2. **
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQzMTQ1ODYsMTE4MTQ5ODg2NSwtND
-Q2MzE5MTQyLDIwNDIyNzkyMDksNDI0NTYyOTA0XX0=
+eyJoaXN0b3J5IjpbMTAyNDMwMDgyNSwxMTgxNDk4ODY1LC00ND
+YzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1NjI5MDRdfQ==
 -->
