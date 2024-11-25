@@ -28,7 +28,9 @@ The program supports the following operations:
 5. Percentage
 6. Exponentiation
 7. Factorial
-8. Odd
+8. Odd/Even Check
+9. Absolute Value
+10. Average
 
 ---
 
@@ -38,7 +40,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNTI0Nzg3MCwtMTk3Mzk4Mjk0MSwxMT
+eyJoaXN0b3J5IjpbMTIxMzE5OTExNCwtMTk3Mzk4Mjk0MSwxMT
 gxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1NjI5
 MDRdfQ==
 -->
