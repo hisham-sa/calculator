@@ -24,7 +24,11 @@ The program supports the following operations:
 1. Addition
 2. Subtraction
 3. Multipliction
-4. 
+4. Division
+5. Percentage
+6. Exponentiation
+7. Factorial
+8. Odd
 
 ---
 
@@ -34,7 +38,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE2NTM4OTgsLTE5NzM5ODI5NDEsMT
-E4MTQ5ODg2NSwtNDQ2MzE5MTQyLDIwNDIyNzkyMDksNDI0NTYy
-OTA0XX0=
+eyJoaXN0b3J5IjpbLTgzNTI0Nzg3MCwtMTk3Mzk4Mjk0MSwxMT
+gxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1NjI5
+MDRdfQ==
 -->
