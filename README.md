@@ -58,13 +58,15 @@ The program supports the following operations:
 - You can repeat the process for other operations or exit the program.
 
 ### Example Usage
-####   Addition*
+- ####   Addition
 1. Run the program.
 2. Enter `1` for addition.
 3. Input two numbers, e.g., `5` and `5`.
 4. Output: `The result is: 10`.
-
-### Factorial
+5. 
+- ### Factorial
+1- Run the program.
+2. Enter `7`
 
 
 
@@ -75,7 +77,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjQ0NjQxMSwxOTE5OTM4ODYsLTE3Mj
+eyJoaXN0b3J5IjpbMTQzMTE4NjI2NywxOTE5OTM4ODYsLTE3Mj
 YzNTM5OTEsNTIxNDk0MjExLC04ODg2NzIzMzEsLTE5NjE5NjUy
 NDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NSwtNDQ2MzE5MTQyLD
 IwNDIyNzkyMDksNDI0NTYyOTA0XX0=
