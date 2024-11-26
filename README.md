@@ -54,14 +54,19 @@ The program supports the following operations:
 - Depending on the operation, the program will prompt you to enter one or more numbers.
 
 4. **View Results**:
--
+- The result of the operation will be displayed as output.
+- You can repeat the process for other operations or exit the program.
+
+---
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjI0NzU3MiwxOTE5OTM4ODYsLTE3Mj
-YzNTM5OTEsNTIxNDk0MjExLC04ODg2NzIzMzEsLTE5NjE5NjUy
-NDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NSwtNDQ2MzE5MTQyLD
-IwNDIyNzkyMDksNDI0NTYyOTA0XX0=
+eyJoaXN0b3J5IjpbLTE5MTk3OTIwMjcsMTkxOTkzODg2LC0xNz
+I2MzUzOTkxLDUyMTQ5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1
+MjQ2LC0xOTczOTgyOTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0Mi
+wyMDQyMjc5MjA5LDQyNDU2MjkwNF19
 -->
