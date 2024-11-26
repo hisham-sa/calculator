@@ -47,16 +47,18 @@ The program supports the following operations:
 - run the program using a Java development environment (e.g., NetBeans)
 
 2. **Select an Operation**:
--- Choose an operation by entering a number between `1` and `10` based on the menu.
+- Choose an operation by entering a number between `1` and `10` based on the menu.
+- Enter `0` to exit the program.
 
-
+3. **Provide Input**:
+- Depending on the operation, the program will prompt you to enter one or more numbers.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk2NjM3MDMsMTkxOTkzODg2LC0xNz
-I2MzUzOTkxLDUyMTQ5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1
-MjQ2LC0xOTczOTgyOTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0Mi
-wyMDQyMjc5MjA5LDQyNDU2MjkwNF19
+eyJoaXN0b3J5IjpbLTEwNTE3NDY2MiwxOTE5OTM4ODYsLTE3Mj
+YzNTM5OTEsNTIxNDk0MjExLC04ODg2NzIzMzEsLTE5NjE5NjUy
+NDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NSwtNDQ2MzE5MTQyLD
+IwNDIyNzkyMDksNDI0NTYyOTA0XX0=
 -->
