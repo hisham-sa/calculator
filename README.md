@@ -74,13 +74,16 @@ The program supports the following operations:
 4. Output: `The AVG is: 5`.
 
 ---
-####  **Error Handling**
+##  **Error Handling**
 -  Invalid inputs trigger a warning:
 `"Invalid input! Please enter a valid number next time."`  
 - Attempts to divide by zero are handled gracefully, displaying a warning message:
 `Division by zero is not allowed`
 - The program prevents negative numbers for factorial and informs the user about it:
 `Factorial is not defined for negative numbers.`
+
+---
+## Code Structure
 
 
 
@@ -93,7 +96,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY1NjQ4MiwxNzMwMjAyNDU2LDE5MT
+eyJoaXN0b3J5IjpbLTU4OTI3NjM1OSwxNzMwMjAyNDU2LDE5MT
 k5Mzg4NiwtMTcyNjM1Mzk5MSw1MjE0OTQyMTEsLTg4ODY3MjMz
 MSwtMTk2MTk2NTI0NiwtMTk3Mzk4Mjk0MSwxMTgxNDk4ODY1LC
 00NDYzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1NjI5MDRdfQ==
