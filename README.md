@@ -62,12 +62,13 @@ The program supports the following operations:
 1. Run the program.
 2. Enter `1` for addition.
 3. Input two numbers, e.g., `5` and `5`.
-4. Output: `The result is: 10`.
-5. 
+4. Output: `The result is: 10.0`.
+
 - ### Factorial
 1- Run the program.
 2. Enter `7` for factorial.
-3. input 
+3. input non-negative integer e.g., `5`.
+4. e.g., `5`
 
 
 
@@ -78,7 +79,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODk3MTU1MDIsMTkxOTkzODg2LC0xNz
+eyJoaXN0b3J5IjpbLTE4MTM2NDQ1NzgsMTkxOTkzODg2LC0xNz
 I2MzUzOTkxLDUyMTQ5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1
 MjQ2LC0xOTczOTgyOTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0Mi
 wyMDQyMjc5MjA5LDQyNDU2MjkwNF19
