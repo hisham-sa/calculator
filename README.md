@@ -41,6 +41,9 @@ The program supports the following operations:
 2. **operations** class contains the mathematical methods used by the calculator.
 - Includes all the main mathematical operations supported by the program.
 - Acts as a helper class to the primary class `App.java`.
+---
+## How to use
+### Step-by-Step Guide
 
 
 
@@ -48,8 +51,8 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc0MjY5OSwtMTcyNjM1Mzk5MSw1Mj
-E0OTQyMTEsLTg4ODY3MjMzMSwtMTk2MTk2NTI0NiwtMTk3Mzk4
-Mjk0MSwxMTgxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3OTIwOS
-w0MjQ1NjI5MDRdfQ==
+eyJoaXN0b3J5IjpbNDQ2NzI4NjQ0LC0xNzI2MzUzOTkxLDUyMT
+Q5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1MjQ2LC0xOTczOTgy
+OTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0MiwyMDQyMjc5MjA5LD
+QyNDU2MjkwNF19
 -->
