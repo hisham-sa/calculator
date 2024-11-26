@@ -43,11 +43,11 @@ The program supports the following operations:
 - Acts as a helper class to the primary class `App.java`.
 ---
 ## How to use
-### Step-by-Step Guide
 1. **Launch the Program**:
 - run the program using a Java development environment (e.g., NetBeans)
 
-2. 
+2. **Select an Operation**:
+-- Choose an operation by entering a number between `1` and `10` based on the menu.
 
 
 
@@ -55,7 +55,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDc5MDE0OTQsMTkxOTkzODg2LC0xNz
+eyJoaXN0b3J5IjpbLTE4ODk2NjM3MDMsMTkxOTkzODg2LC0xNz
 I2MzUzOTkxLDUyMTQ5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1
 MjQ2LC0xOTczOTgyOTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0Mi
 wyMDQyMjc5MjA5LDQyNDU2MjkwNF19
