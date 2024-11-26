@@ -65,14 +65,15 @@ The program supports the following operations:
 4. Output: `The result is: 10.0`.
 
 - ### Factorial
-5. Enter `7` for factorial.
-6. input non-negative integer e.g., `5`.
-7. Output: `The result is: 120`.
+1. Enter `7` for factorial.
+2. input non-negative integer e.g., `5`.
+3. Output: `The result is: 120`.
 
 - ### Calculating Average:
-8. Enter `10` to calculate the average
-9. Provide a series of numbers (e.g., `7`, `5`, `2`).
-10. Type `stop` to end input.
+1. Enter `10` to calculate the average
+2. Provide a series of numbers (e.g., `9`, `5`, `1`).
+3. Type `stop` to end input.
+11. Output: `The AVG is: 5`.
 
 
 
@@ -83,8 +84,8 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzMDgzNDc1LDE5MTk5Mzg4NiwtMTcyNj
-M1Mzk5MSw1MjE0OTQyMTEsLTg4ODY3MjMzMSwtMTk2MTk2NTI0
-NiwtMTk3Mzk4Mjk0MSwxMTgxNDk4ODY1LC00NDYzMTkxNDIsMj
-A0MjI3OTIwOSw0MjQ1NjI5MDRdfQ==
+eyJoaXN0b3J5IjpbNjYzOTM5MjEsMTkxOTkzODg2LC0xNzI2Mz
+UzOTkxLDUyMTQ5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1MjQ2
+LC0xOTczOTgyOTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0MiwyMD
+QyMjc5MjA5LDQyNDU2MjkwNF19
 -->
