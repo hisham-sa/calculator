@@ -11,7 +11,7 @@
 
 ## Class Details
 
-1. **App** class is the entry point of the calculator program. It interacts with the user via the `Scanner s1`  and performs the following:
+1. `**App** class is the entry point of the calculator program. It interacts with the user via the `Scanner s1`  and performs the following:
 - Displays a menu of operations.
 - handles user inputs and manages invalid entries.
 - Calls appropriate methods in the `operations` class for calculations.
@@ -88,3 +88,6 @@ The program supports the following operations:
 calculator/
 ├── App.java         # Contains the main program logic and user interaction
 └── operations.java  # Includes mathematical methods and helper functions
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1NzMzNjcxMF19
+-->
