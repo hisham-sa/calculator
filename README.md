@@ -83,13 +83,12 @@ The program supports the following operations:
 `Factorial is not defined for negative numbers.`
 
 ---
-## Code Structure
-
+## Project Structure
 ```text
 calculator/
+├── App.java         # Contains the main program logic and user interaction
+└── operations.java  # Includes mathematical methods and helper functions
 
-├── App.java  # Contains the main program logic and user interaction
-└── operations.java # Includes mathematical methods and helper functions
 
 
 
@@ -99,9 +98,9 @@ calculator/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDIyMjY3NiwtNTg5Mjc2MzU5LDE3Mz
-AyMDI0NTYsMTkxOTkzODg2LC0xNzI2MzUzOTkxLDUyMTQ5NDIx
-MSwtODg4NjcyMzMxLC0xOTYxOTY1MjQ2LC0xOTczOTgyOTQxLD
-ExODE0OTg4NjUsLTQ0NjMxOTE0MiwyMDQyMjc5MjA5LDQyNDU2
-MjkwNF19
+eyJoaXN0b3J5IjpbLTExNzc1MDMyNzYsLTU4OTI3NjM1OSwxNz
+MwMjAyNDU2LDE5MTk5Mzg4NiwtMTcyNjM1Mzk5MSw1MjE0OTQy
+MTEsLTg4ODY3MjMzMSwtMTk2MTk2NTI0NiwtMTk3Mzk4Mjk0MS
+wxMTgxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1
+NjI5MDRdfQ==
 -->
