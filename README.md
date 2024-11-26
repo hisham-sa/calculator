@@ -53,11 +53,14 @@ The program supports the following operations:
 3. **Provide Input**:
 - Depending on the operation, the program will prompt you to enter one or more numbers.
 
+4. **View Results**:
+-
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTE3NDY2MiwxOTE5OTM4ODYsLTE3Mj
+eyJoaXN0b3J5IjpbLTQ4MjI0NzU3MiwxOTE5OTM4ODYsLTE3Mj
 YzNTM5OTEsNTIxNDk0MjExLC04ODg2NzIzMzEsLTE5NjE5NjUy
 NDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NSwtNDQ2MzE5MTQyLD
 IwNDIyNzkyMDksNDI0NTYyOTA0XX0=
