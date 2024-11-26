@@ -77,7 +77,8 @@ The program supports the following operations:
 ####  **Error Handling**
 -  Invalid inputs trigger a warning:
 `"Invalid input! Please enter a valid number next time ."`  
-- 
+- Attempts to divide by zero are handled gracefully, displaying a warning message:
+
 
 
 
@@ -90,7 +91,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU4Mjk0MTQsMTczMDIwMjQ1NiwxOT
+eyJoaXN0b3J5IjpbLTE1ODU3MTIxMDksMTczMDIwMjQ1NiwxOT
 E5OTM4ODYsLTE3MjYzNTM5OTEsNTIxNDk0MjExLC04ODg2NzIz
 MzEsLTE5NjE5NjUyNDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NS
 wtNDQ2MzE5MTQyLDIwNDIyNzkyMDksNDI0NTYyOTA0XX0=
