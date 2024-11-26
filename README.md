@@ -58,13 +58,13 @@ The program supports the following operations:
 - You can repeat the process for other operations or exit the program.
 
 ### Example Usage
-- ####   Addition
+- ####   Addition:
 1. Run the program.
 2. Enter `1` for addition.
 3. Input two numbers, e.g., `5` and `5`.
 4. Output: `The result is: 10.0`.
 
-- ### Factorial
+- ### Factorial:
 1. Enter `7` for factorial.
 2. input non-negative integer e.g., `5`.
 3. Output: `The result is: 120`.
@@ -73,8 +73,9 @@ The program supports the following operations:
 1. Enter `10` to calculate the average
 2. Provide a series of numbers (e.g., `9`, `5`, `1`).
 3. Type `stop` to end input.
-11. Output: `The AVG is: 5`.
+4. Output: `The AVG is: 5`.
 
+---
 
 
 
@@ -84,8 +85,8 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzOTM5MjEsMTkxOTkzODg2LC0xNzI2Mz
-UzOTkxLDUyMTQ5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1MjQ2
-LC0xOTczOTgyOTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0MiwyMD
-QyMjc5MjA5LDQyNDU2MjkwNF19
+eyJoaXN0b3J5IjpbMTczMDIwMjQ1NiwxOTE5OTM4ODYsLTE3Mj
+YzNTM5OTEsNTIxNDk0MjExLC04ODg2NzIzMzEsLTE5NjE5NjUy
+NDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NSwtNDQ2MzE5MTQyLD
+IwNDIyNzkyMDksNDI0NTYyOTA0XX0=
 -->
