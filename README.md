@@ -19,7 +19,7 @@
 ### **Features in `App` class**
 ####  **Menu Options**
 The program supports the following operations:
- 
+ 0. 
 1. Addition
 2. Subtraction
 3. Multipliction
@@ -41,7 +41,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMDk3OTA0LC0xOTYxOTY1MjQ2LC0xOT
-czOTgyOTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0MiwyMDQyMjc5
-MjA5LDQyNDU2MjkwNF19
+eyJoaXN0b3J5IjpbMTM4NjE3NTczNCwtMTk2MTk2NTI0NiwtMT
+k3Mzk4Mjk0MSwxMTgxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3
+OTIwOSw0MjQ1NjI5MDRdfQ==
 -->
