@@ -76,9 +76,10 @@ The program supports the following operations:
 ---
 ####  **Error Handling**
 -  Invalid inputs trigger a warning:
-`"Invalid input! Please enter a valid number next time ."`  
+`"Invalid input! Please enter a valid number next time."`  
 - Attempts to divide by zero are handled gracefully, displaying a warning message:
-
+`Division by zero is not allowed`
+- The program prevents negative numbers for factorial and informs the user about it
 
 
 
@@ -91,8 +92,8 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU3MTIxMDksMTczMDIwMjQ1NiwxOT
-E5OTM4ODYsLTE3MjYzNTM5OTEsNTIxNDk0MjExLC04ODg2NzIz
-MzEsLTE5NjE5NjUyNDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NS
-wtNDQ2MzE5MTQyLDIwNDIyNzkyMDksNDI0NTYyOTA0XX0=
+eyJoaXN0b3J5IjpbNzY2NDcyMzExLDE3MzAyMDI0NTYsMTkxOT
+kzODg2LC0xNzI2MzUzOTkxLDUyMTQ5NDIxMSwtODg4NjcyMzMx
+LC0xOTYxOTY1MjQ2LC0xOTczOTgyOTQxLDExODE0OTg4NjUsLT
+Q0NjMxOTE0MiwyMDQyMjc5MjA5LDQyNDU2MjkwNF19
 -->
