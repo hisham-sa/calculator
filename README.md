@@ -68,7 +68,10 @@ The program supports the following operations:
 1- Run the program.
 2. Enter `7` for factorial.
 3. input non-negative integer e.g., `5`.
-4. e.g., `5`
+4. Output: `The result is: 120`.
+
+- ### Calculating Average:
+1.
 
 
 
@@ -79,7 +82,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM2NDQ1NzgsMTkxOTkzODg2LC0xNz
+eyJoaXN0b3J5IjpbLTEwNzk2ODIzNzgsMTkxOTkzODg2LC0xNz
 I2MzUzOTkxLDUyMTQ5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1
 MjQ2LC0xOTczOTgyOTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0Mi
 wyMDQyMjc5MjA5LDQyNDU2MjkwNF19
