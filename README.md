@@ -85,8 +85,11 @@ The program supports the following operations:
 ---
 ## Code Structure
 
+```text
+calculator/
 
-
+├── App.java  # Contains the main program logic and user interaction
+└── operations.java # Includes mathematical methods and helper functions
 
 
 
@@ -96,8 +99,9 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTI3NjM1OSwxNzMwMjAyNDU2LDE5MT
-k5Mzg4NiwtMTcyNjM1Mzk5MSw1MjE0OTQyMTEsLTg4ODY3MjMz
-MSwtMTk2MTk2NTI0NiwtMTk3Mzk4Mjk0MSwxMTgxNDk4ODY1LC
-00NDYzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1NjI5MDRdfQ==
+eyJoaXN0b3J5IjpbMTIzNDIyMjY3NiwtNTg5Mjc2MzU5LDE3Mz
+AyMDI0NTYsMTkxOTkzODg2LC0xNzI2MzUzOTkxLDUyMTQ5NDIx
+MSwtODg4NjcyMzMxLC0xOTYxOTY1MjQ2LC0xOTczOTgyOTQxLD
+ExODE0OTg4NjUsLTQ0NjMxOTE0MiwyMDQyMjc5MjA5LDQyNDU2
+MjkwNF19
 -->
