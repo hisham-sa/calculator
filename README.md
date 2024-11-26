@@ -45,7 +45,9 @@ The program supports the following operations:
 ## How to use
 ### Step-by-Step Guide
 1. **Launch the Program**:
--
+- run the program using a Java development environment (e.g., NetBeans)
+
+2. 
 
 
 
@@ -53,8 +55,8 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTkzODg2LC0xNzI2MzUzOTkxLDUyMT
-Q5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1MjQ2LC0xOTczOTgy
-OTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0MiwyMDQyMjc5MjA5LD
-QyNDU2MjkwNF19
+eyJoaXN0b3J5IjpbLTE4MDc5MDE0OTQsMTkxOTkzODg2LC0xNz
+I2MzUzOTkxLDUyMTQ5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1
+MjQ2LC0xOTczOTgyOTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0Mi
+wyMDQyMjc5MjA5LDQyNDU2MjkwNF19
 -->
