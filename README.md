@@ -32,7 +32,7 @@ The program supports the following operations:
 9. Absolute Value
 10. Average
 
-###  **Error Handling**
+####  **Error Handling**
 -  Invalid inputs trigger a warning:
 `"Invalid input! Please enter a valid number next time ."`  
 ---
@@ -43,7 +43,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzE3ODkyOCwtMTk2MTk2NTI0NiwtMT
+eyJoaXN0b3J5IjpbLTg4ODY3MjMzMSwtMTk2MTk2NTI0NiwtMT
 k3Mzk4Mjk0MSwxMTgxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3
 OTIwOSw0MjQ1NjI5MDRdfQ==
 -->
