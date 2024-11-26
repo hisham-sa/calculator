@@ -15,7 +15,7 @@
 - Displays a menu of operations.
 - handles user inputs and manages invalid entries.
 - Calls appropriate methods in the `operations` class for calculations.
----
+
 ###  **Features in `App` class**
 ####  **Menu Options**
 The program supports the following operations:
@@ -32,9 +32,7 @@ The program supports the following operations:
 9. Absolute Value
 10. Average
 
-####  **Error Handling**
--  Invalid inputs trigger a warning:
-`"Invalid input! Please enter a valid number next time ."`  
+
 ---
 
 
@@ -76,6 +74,13 @@ The program supports the following operations:
 4. Output: `The AVG is: 5`.
 
 ---
+####  **Error Handling**
+-  Invalid inputs trigger a warning:
+`"Invalid input! Please enter a valid number next time ."`  
+- 
+
+
+
 
 
 
@@ -85,8 +90,8 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDIwMjQ1NiwxOTE5OTM4ODYsLTE3Mj
-YzNTM5OTEsNTIxNDk0MjExLC04ODg2NzIzMzEsLTE5NjE5NjUy
-NDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NSwtNDQ2MzE5MTQyLD
-IwNDIyNzkyMDksNDI0NTYyOTA0XX0=
+eyJoaXN0b3J5IjpbLTIwMDU4Mjk0MTQsMTczMDIwMjQ1NiwxOT
+E5OTM4ODYsLTE3MjYzNTM5OTEsNTIxNDk0MjExLC04ODg2NzIz
+MzEsLTE5NjE5NjUyNDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NS
+wtNDQ2MzE5MTQyLDIwNDIyNzkyMDksNDI0NTYyOTA0XX0=
 -->
