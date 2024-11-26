@@ -19,7 +19,8 @@
 ### **Features in `App` class**
 ####  **Menu Options**
 The program supports the following operations:
- 0. 
+ 
+ 0. Exit
 1. Addition
 2. Subtraction
 3. Multipliction
@@ -30,6 +31,7 @@ The program supports the following operations:
 8. Odd/Even Check
 9. Absolute Value
 10. Average
+
 ###  **Error Handling**
 -  Invalid inputs trigger a warning:
 `"Invalid input! Please enter a valid number next time ."`  
@@ -41,7 +43,7 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjE3NTczNCwtMTk2MTk2NTI0NiwtMT
+eyJoaXN0b3J5IjpbMTM2MzE3ODkyOCwtMTk2MTk2NTI0NiwtMT
 k3Mzk4Mjk0MSwxMTgxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3
 OTIwOSw0MjQ1NjI5MDRdfQ==
 -->
