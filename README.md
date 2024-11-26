@@ -16,7 +16,7 @@
 - handles user inputs and manages invalid entries.
 - Calls appropriate methods in the `operations` class for calculations.
 ---
-### **Features in `App` class**
+###  **Features in `App` class**
 ####  **Menu Options**
 The program supports the following operations:
  
@@ -46,7 +46,8 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxNDk0MjExLC04ODg2NzIzMzEsLTE5Nj
-E5NjUyNDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NSwtNDQ2MzE5
-MTQyLDIwNDIyNzkyMDksNDI0NTYyOTA0XX0=
+eyJoaXN0b3J5IjpbLTE3MjYzNTM5OTEsNTIxNDk0MjExLC04OD
+g2NzIzMzEsLTE5NjE5NjUyNDYsLTE5NzM5ODI5NDEsMTE4MTQ5
+ODg2NSwtNDQ2MzE5MTQyLDIwNDIyNzkyMDksNDI0NTYyOTA0XX
+0=
 -->
