@@ -88,19 +88,3 @@ The program supports the following operations:
 calculator/
 ├── App.java         # Contains the main program logic and user interaction
 └── operations.java  # Includes mathematical methods and helper functions
-
-
-
-
-
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzc1MDMyNzYsLTU4OTI3NjM1OSwxNz
-MwMjAyNDU2LDE5MTk5Mzg4NiwtMTcyNjM1Mzk5MSw1MjE0OTQy
-MTEsLTg4ODY3MjMzMSwtMTk2MTk2NTI0NiwtMTk3Mzk4Mjk0MS
-wxMTgxNDk4ODY1LC00NDYzMTkxNDIsMjA0MjI3OTIwOSw0MjQ1
-NjI5MDRdfQ==
--->
