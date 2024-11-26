@@ -57,7 +57,7 @@ The program supports the following operations:
 - The result of the operation will be displayed as output.
 - You can repeat the process for other operations or exit the program.
 
-### Examples
+### Example Usage
 
 
 
@@ -67,8 +67,8 @@ The program supports the following operations:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mzc5NDE0NCwxOTE5OTM4ODYsLTE3Mj
-YzNTM5OTEsNTIxNDk0MjExLC04ODg2NzIzMzEsLTE5NjE5NjUy
-NDYsLTE5NzM5ODI5NDEsMTE4MTQ5ODg2NSwtNDQ2MzE5MTQyLD
-IwNDIyNzkyMDksNDI0NTYyOTA0XX0=
+eyJoaXN0b3J5IjpbLTEzOTkwNjUyNDgsMTkxOTkzODg2LC0xNz
+I2MzUzOTkxLDUyMTQ5NDIxMSwtODg4NjcyMzMxLC0xOTYxOTY1
+MjQ2LC0xOTczOTgyOTQxLDExODE0OTg4NjUsLTQ0NjMxOTE0Mi
+wyMDQyMjc5MjA5LDQyNDU2MjkwNF19
 -->
